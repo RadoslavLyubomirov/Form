@@ -1,0 +1,22 @@
+.TS{
+    width:75%;
+    height: 10%;
+    border: 8px dotted;
+    border-color: rgb(133, 106, 158);
+    border-radius: 12px;
+    padding: 15px;
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+}
+#t1{
+    font-size: 53px;
+    font-style: italic;
+    letter-spacing: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px #ffcccc;
+    color: black;
+}
+#t2{
+    background-color: rgb(128, 103, 85);
+}
